@@ -1,0 +1,5 @@
+D:\Krittanun\Github\Software\Test_GitHub\Test_GitHub\bin\Debug\Test_GitHub.exe
+D:\Krittanun\Github\Software\Test_GitHub\Test_GitHub\bin\Debug\Test_GitHub.pdb
+D:\Krittanun\Github\Software\Test_GitHub\Test_GitHub\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Krittanun\Github\Software\Test_GitHub\Test_GitHub\obj\x86\Debug\Test_GitHub.exe
+D:\Krittanun\Github\Software\Test_GitHub\Test_GitHub\obj\x86\Debug\Test_GitHub.pdb

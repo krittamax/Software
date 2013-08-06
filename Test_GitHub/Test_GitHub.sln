@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_GitHub", "Test_GitHub\Test_GitHub.csproj", "{DFD2A473-6F89-46A7-8BAA-7756C26BB692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD2A473-6F89-46A7-8BAA-7756C26BB692}.Debug|x86.ActiveCfg = Debug|x86
+		{DFD2A473-6F89-46A7-8BAA-7756C26BB692}.Debug|x86.Build.0 = Debug|x86
+		{DFD2A473-6F89-46A7-8BAA-7756C26BB692}.Release|x86.ActiveCfg = Release|x86
+		{DFD2A473-6F89-46A7-8BAA-7756C26BB692}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
